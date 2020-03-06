@@ -47,11 +47,6 @@ namespace ASPCoreSPA.Models
                 Message = string.Empty
             };
         }
-
-        Response IUserModel.SigIn(UserModel pUserModel)
-        {
-            throw new NotImplementedException();
-        }
         #endregion
     }
 }

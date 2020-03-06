@@ -1,11 +1,21 @@
 ﻿<Properties StartupConfiguration="{7C1B3AA8-B4D2-483B-99D5-3DA9C8766ED0}|Production">
   <MonoDevelop.Ide.ItemProperties.ASPCoreSPA PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPCoreSPA/Model/UserModel.cs">
+    <Files>
+      <File FileName="ASPCoreSPA/Model/UserModel.cs" Line="28" Column="123" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ASPCoreSPA" expanded="True">
-            <Node name="ASPCoreSPA" expanded="True" />
+            <Node name="ASPCoreSPA" expanded="True">
+              <Node name="DataLayer" expanded="True" />
+              <Node name="Helper" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="UserModel.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
