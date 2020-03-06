@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7C1B3AA8-B4D2-483B-99D5-3DA9C8766ED0}|Production">
+  <MonoDevelop.Ide.ItemProperties.ASPCoreSPA PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPCoreSPA" expanded="True">
+            <Node name="ASPCoreSPA" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
